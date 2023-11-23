@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+/dist/
+/build/
+*.egg-info/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Cached pyc files
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment variable files
+.env
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache and lock files for poetry
+poetry.lock
+pyproject.toml
