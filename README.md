@@ -1,8 +1,8 @@
 ![Logo](https://i.ibb.co/1RGz0VH/PIM-2.jpg)
 
-# AI-CHATBOT
+# NeuralChat
 
-This AI-CHATBOT is created in Python using NLTK, Tensorflow, keras, numpy and FastAPI.
+This Chatbot is created in Python using NLTK, Tensorflow, keras, numpy and FastAPI.
 
 **NOTE:**
 (CURRENTLY OPTIMIZED FOR MAC OS (ARM64 CHIPS) ONLY DUE TO DIFFERENT GPU ARCHITECTURE IN WINDOWS)
@@ -41,13 +41,13 @@ This AI-CHATBOT is created in Python using NLTK, Tensorflow, keras, numpy and Fa
 Clone the project
 
 ```bash
-  git clone https://github.com/ProgrammingInBlood/AI-CHATBOT
+  git clone https://github.com/ProgrammingInBlood/NeuralChat
 ```
 
 Go to the project directory
 
 ```bash
-  cd AI-CHATBOT
+  cd NeuralChat
 ```
 
 Install dependencies
